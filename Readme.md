@@ -12,4 +12,5 @@
 </div>
 
 ##### IDE
-![VS Stud](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Android IDE](https://img.shields.io/badge/Android%20IDE-black?style=for-the-badge&logo=openjdk&logoColor=white)
+
