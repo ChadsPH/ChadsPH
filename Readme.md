@@ -14,3 +14,12 @@
 ##### IDE
 ![Android IDE](https://img.shields.io/badge/Android%20IDE-black?style=for-the-badge&logo=openjdk&logoColor=white)
 
+
+<div align="center">
+
+<br><p align="centre"><b>Visitors Count</b></p>  
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ChadDevz}/count.svg" /></p> 
+
+<br></div>
+
