@@ -3,10 +3,10 @@
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user={ChadDevz}&layout=compact&theme=midnight-purple)
 
-<a href="https://github.com/ChadDevz">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChadDevz&theme=midnight-purple&show_icons=true" />
+<a href="https://github.com/ChadsPH">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChadsPH&theme=midnight-purple&show_icons=true" />
   <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChadDevz&layout=compact&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChadsPH&layout=compact&theme=midnight-purple" />
     </br>
 </a>
 </div>
@@ -19,7 +19,7 @@
 
 <br><p align="centre"><b>Visitors Count</b></p>  
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ChadDevz}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ChadsPH}/count.svg" /></p> 
 
 <br></div>
 
