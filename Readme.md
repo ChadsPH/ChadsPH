@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a020f0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Chad+Ivan+Nillo;I'm+18+years+old;I+am+from+Manila,+PH;I+learning+java+kotlin+making+android+applications;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
 <a href="https://github.com/ChadsPH">
   <img src="https://github-readme-stats.vercel.app/api?username=ChadsPH&theme=midnight-purple&show_icons=true" />
   <br/>
