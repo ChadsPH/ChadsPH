@@ -1,20 +1,47 @@
-<a href="https://github.com/ChadsPH">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChadsPH&theme=midnight-purple&show_icons=true" />
-  <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChadsPH&layout=compact&theme=midnight-purple" />
-    </br>
-</a>
+<div align="center">
+  <a href="https://github.com/ChadsPH">
+    <img src="https://github-readme-stats.vercel.app/api?username=ChadsPH&theme=midnight-purple&show_icons=true" alt="GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChadsPH&layout=compact&theme=midnight-purple" alt="Top Languages" />
+  </a>
 </div>
 
-##### IDE
-![Android IDE](https://img.shields.io/badge/Android%20IDE-black?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
+### Development Environment  
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%202010-purple?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio 2010" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%202012-purple?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio 2012" />
+</div>
+
+---
 
 <div align="center">
+  <h3>Visitors Count</h3>
+  <img src="https://profile-counter.glitch.me/{ChadsPH}/count.svg" alt="Visitors Count" />
+</div>
 
-<br><p align="centre"><b>Visitors Count</b></p>  
+---
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ChadsPH}/count.svg" /></p> 
+### About Me  
+<div align="center">
+  <p>
+    🔥 Passionate developer with a knack for creating clean and efficient code. <br/>
+    🚀 Skilled in modern tools and platforms, always exploring new technologies. <br/>
+    🌟 GitHub enthusiast dedicated to building and sharing impactful projects.
+  </p>
+</div>
 
-<br></div>
+---
 
+### Connect with Me  
+<div align="center">
+  <a href="https://github.com/ChadsPH">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto: chadivannillo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
