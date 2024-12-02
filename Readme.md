@@ -1,7 +1,5 @@
 <div align="center">
   <a href="https://github.com/ChadsPH">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChadsPH&theme=midnight-purple&show_icons=true" alt="GitHub Stats" />
-    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChadsPH&layout=compact&theme=midnight-purple" alt="Top Languages" />
   </a>
 </div>
