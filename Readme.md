@@ -16,8 +16,8 @@
 
 ---
 
+### Visitors Count 
 <div align="center">
-  <h3>Visitors Count</h3>
   <img src="https://profile-counter.glitch.me/{ChadsPH}/count.svg" alt="Visitors Count" />
 </div>
 
@@ -36,8 +36,8 @@
 
 ### Connect with Me  
 <div align="center">
-  <a href="https://github.com/ChadsPH">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://m.me/chadivannillo">
+    <img src="https://img.shields.io/badge/Messenger-0084FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger" />
   </a>
   <a href="mailto: chadivannillo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
